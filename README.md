@@ -5,15 +5,22 @@ This project involves the analysis of a Black Friday sales dataset using Python 
 
 ## Purpose
 The goal is to gain insights into customer behavior, purchasing patterns, and the impact of different demographic factors on sales.Some example questions include:
+
  Were purchasing patterns dependant on gender and age groups?
+ 
  Should consumer's occupation be considered impactful on sales?
  
 # Table of content
 -- Loading & Cleaning the Dataset
+
 -- Performing basic analysis on columns
+
 -- Analysis (Based on gender, Age, Marital Status)
+
 -- Multicolumn Analysis
+
 -- Analysis (Based on occupation & Gender)
+
 -- Combining Gender and Marital Status
 
 ## Dataset (Columns)
